@@ -1,1 +1,5 @@
-# Plinko-with-scores
+#Made by Kena 
+#the plinko project
+
+
+
